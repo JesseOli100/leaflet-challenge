@@ -24,3 +24,5 @@ The USGS provides earthquake data in a number of different formats, updated ever
 
 ![Snip20240129_27](https://github.com/JesseOli100/leaflet-challenge/assets/62526904/b2e4382d-7e8c-46f3-9643-5343d66adc07)
 
+When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
+
