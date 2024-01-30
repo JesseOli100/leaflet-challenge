@@ -16,3 +16,9 @@ Part 2: Gather and Plot More Data (Optional with no extra points earning)
 
 ![Snip20240129_26](https://github.com/JesseOli100/leaflet-challenge/assets/62526904/3e4baf25-8688-4003-85ea-cc550c0915eb)
 
+Your first task is to visualize an earthquake dataset. Complete the following steps:
+
+Get your dataset. To do so, follow these steps:
+
+The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON FeedLinks to an external site. page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
+
