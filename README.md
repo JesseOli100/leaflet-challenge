@@ -48,3 +48,4 @@ Create a legend that will provide context for your map data.
 
 Your visualization should look something like the preceding map.
 
+![Snip20240129_29](https://github.com/JesseOli100/leaflet-challenge/assets/62526904/331767ee-7711-4931-b23b-913d4c7581ea)
