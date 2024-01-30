@@ -14,3 +14,5 @@ Part 2: Gather and Plot More Data (Optional with no extra points earning)
 
 # Part 1: Create the Earthquake Visualization
 
+![Snip20240129_26](https://github.com/JesseOli100/leaflet-challenge/assets/62526904/3e4baf25-8688-4003-85ea-cc550c0915eb)
+
