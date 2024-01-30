@@ -22,3 +22,5 @@ Get your dataset. To do so, follow these steps:
 
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON FeedLinks to an external site. page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
 
+![Snip20240129_27](https://github.com/JesseOli100/leaflet-challenge/assets/62526904/b2e4382d-7e8c-46f3-9643-5343d66adc07)
+
